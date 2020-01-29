@@ -1,0 +1,186 @@
+@media (max-width: 700px){
+
+	body{
+	
+	    overflow-x: hidden;
+	}
+
+    .banner-top {
+        background-image: url('/imagens/Landing\ page\ Cuncurso\ 02.png');
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 200px;
+        width: 100%;
+        max-width: 1500px;
+    }
+
+    .banner-top .title-top p {
+        position: absolute;
+        left: 2%;
+        top: 5%;
+        color: 
+        #fff;
+        text-align: left;
+        margin: 0 auto;
+        font-size: 20px;
+        width: 500px;
+    }
+
+    .chamada-one{
+        margin: 8% 0;
+    }
+
+    .chamada-one a {
+        background-color: #ff2e4b;
+        border-radius: 10px;
+        padding: 20px 30px;
+        color:#fff;
+        text-decoration: none;
+        text-transform: uppercase;
+        font-size: 14px;
+        font-weight: bold;
+    }
+
+    .video-chamada iframe{
+       width: 338px;
+       height: 189px;
+    }
+
+    .content-one h3{
+        font-size: 20px;
+    }
+
+    ul li {
+        list-style: none;
+        color: 
+        #333;
+        font-size: 14px;
+    }
+
+    .content-two p {
+        color: 
+        #333;
+        text-align: center;
+        font-size: 14px;
+        text-transform: uppercase;
+    }
+
+    .section-two img{
+        width: 300px;
+        height: 200px;
+    }
+
+    .section-two h3{
+        font-size: 20px;
+    }
+
+    .section-two p{
+        font-size: 14px;
+    }
+
+    .sobre h3{
+        font-size: 20px;
+    }
+
+    .sobre > img{
+        width: 300px;
+        height: 200px;
+    }
+
+    .sobre p{
+        font-size: 14px;
+    }
+    .sobre #obs{
+        font-size: 20px;
+    }
+
+    .cartoes img{
+        width: 80%;
+    }
+
+    .cartoes > #cadeado{
+        width: 100px;
+    }
+
+    .chamada-for{
+        margin: 8% 0;
+    }
+    .chamada-for a {
+        background-color: #333;
+        border-radius: 10px;
+        padding: 20px;
+        color: #fff;
+        text-decoration: none;
+        text-transform: uppercase;
+        font-size: 14px;
+        font-weight: bold;
+    }
+
+    .mentoria{
+        padding: 10% 0;
+    }
+    .mentoria p{
+        font-size: 17px;
+    }
+
+    .chamada-mentoria {
+        margin-top: 10%;
+    }
+
+    .mentoria a {
+        font-size: 20px;
+        margin-top: 3%;
+        text-transform: uppercase;
+        background-color: #fff;
+        color:#333;
+        padding: 20px 30px;
+        border-radius: 10px;
+        text-decoration: none;
+        font-weight: bold;
+    }
+
+        .curriculo-nazildes img{
+    width: 100px;
+    }
+    
+    .curriculo .curriculo-nazildes {
+  
+    border-right: 1px solid #999;
+}
+    
+    .curriculo .curriculo-nazildes h4{
+    font-size: 13px;
+    margin-bottom: 10%;
+    }
+    
+    .curriculo-nazildes p{
+    font-size: 13px;
+    }
+    
+     .curriculo-erika img{
+     width: 100px;
+     
+     }
+     
+     .curriculo .curriculo-erika h4{
+    font-size: 13px;
+    }
+    
+     .curriculo-erika p{
+    font-size: 13px;
+    }
+     
+     .curriculo .curriculo-nazildes a, .curriculo .curriculo-erika a {
+  
+    padding: 5px 13px;
+    
+    }
+    
+    .footer-two p {
+   
+    font-size: 15px;
+     }
+
+
+}
